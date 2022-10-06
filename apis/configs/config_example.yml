@@ -1,0 +1,8 @@
+databases:
+  inner:
+    host: "",
+    port: 3306
+    database: ""
+    username: ""
+    password: ""
+    timezone: "+09:00"

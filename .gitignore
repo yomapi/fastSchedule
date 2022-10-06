@@ -1,0 +1,4 @@
+.vscode/
+apis/configs/config_dev.yml
+apis/configs/config_prod.yml
+__pycache__

@@ -37,7 +37,7 @@ class ScheduleFindReq(BaseModel):
 
 class ScheduleFindRes(BaseModel):
     count: int
-    data: list[ScheduleBase]
+    data: list
 
 
 class ScheduleCreate(BaseModel):
